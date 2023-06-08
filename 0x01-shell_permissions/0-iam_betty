@@ -1,1 +1,1 @@
-sudo -R chown betty .
+sudo chown -R betty .
